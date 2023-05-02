@@ -6,6 +6,8 @@
   - [Boilerplate](https://github.com/NikaMelia/MTaskBoilerplatea)
 - <b>Javascript</b>
   - [SlotMachine (First Javascript project)](https://github.com/NikaMelia/SlotMachine)
+- <b>NestJS</b>
+  - [Interview task (First nestJs project)](https://github.com/NikaMelia/payever)
 
 <h2>University</h2>
 
